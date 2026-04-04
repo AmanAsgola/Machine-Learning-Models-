@@ -1,0 +1,6 @@
+KNCVU/
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.mp4
